@@ -1,0 +1,13 @@
+---
+content_type: page
+description: This page lays out a hypothetical negotiation scenario for thought and
+  discussion.
+draft: false
+title: 'Scenario #2: The Consensus Building Approach'
+uid: ff4cc5c0-893a-4fa7-af45-865f901c0e48
+---
+The residents of the East Side have been waiting for 15 years for someone to do something about cleaning up the polluted site in their midst. The East Side may be the poorest section of the city—and the neighborhood with the largest non-white population—but that is no justification for why they should live with unacceptable health and environmental risks. Ten years ago, the local CDC tried to bring a lawsuit against the then-owners of the site, but the real estate partnership that had purchased the abandoned plastics manufacturing facility a decade earlier was bankrupt and there was no one left to hold accountable. The city claimed that it did not have the money (or the responsibility) to undertake the cleanup. 
+
+Now, out of the blue, a new player has appeared on the scene. A developer wants to build a small shopping mall. They have promised to remediate the site, much of which will be dedicated to an open parking area. The neighborhood is concerned about three things: First, they worry that the city will not hold the new developer to the highest possible cleanup standards in the rush to make something happen. The neighborhood, which is convinced that there are higher cancer rates in their area because of all the toxic chemicals in the soil, wants the area returned to a "pristine state" before any new development takes place. It also wants a guarantee that there won't be any lingering health effects after the cleanup. Second, the neighborhood was hoping that affordable houses, a teen recreation center, and neighborhood-oriented shops would be built on the site, not a suburban-style mall. Because the site is near an exit off the interstate, the developer is probably aiming to attract a lot of out-of-town shoppers; that is the only explanation for the giant parking lot. Third, the community feels it should have the final say over what happens. The wealthier sections of the city always seem to find a back channel to the folks in charge. They get what they want. The East Side has been living with this disaster for 15 years and demands veto rights over any plans before they are executed. 
+
+Your task is to design a consensus building approach for the decision-making process around the redevelopment of this brownfield site. Lay out (step by step) the process you would suggest for trying to build consensus on how the city should proceed with the site.

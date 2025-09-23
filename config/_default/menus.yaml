@@ -1,0 +1,54 @@
+leftnav:
+- identifier: 2af8d3ef-aa4a-424e-bb25-3a50bc07dd72
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f7a25d27-e322-4900-ba82-1e4efca7bad7
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 8d3385d1-541d-46e3-81ef-3e7975eee32e
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 844bcf70-9c1d-433f-b805-788ee06f83e7
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 5f9f81f5-e4c0-468b-afd0-d8b0f42e88b2
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 50
+- identifier: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  name: Scenarios
+  pageRef: /pages/scenarios
+  weight: 60
+- identifier: fb422766-748d-47a2-867d-1e5e54682b37
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 70
+- identifier: 593db1b1-549f-42b1-86eb-4b1027a6f444
+  name: 'Scenario #1'
+  pageRef: /pages/scenario-1-the-traditional-negotiation-game
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  weight: 10
+- identifier: ff4cc5c0-893a-4fa7-af45-865f901c0e48
+  name: 'Scenario #2'
+  pageRef: /pages/scenario-2-the-consensus-building-approach
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  weight: 20
+- identifier: b793b25f-f4cc-4f66-876c-b6392c09cffe
+  name: 'Scenario #3'
+  pageRef: /pages/scenario-3-facilitation
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  weight: 30
+- identifier: ee006516-2ada-47e9-882b-505120291ee1
+  name: 'Scenario #4'
+  pageRef: /pages/scenario-4-gender-and-negotiation
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  weight: 40
+- identifier: d385740e-ce43-4798-92a5-9e2f16b929c5
+  name: 'Scenario #5'
+  pageRef: /pages/scenario-5-roles-and-responsibilities-of-public-sector-mediators
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  weight: 50
