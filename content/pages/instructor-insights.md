@@ -46,9 +46,9 @@ None
 
 ### Requirements Satisfied
 
-11.255 can be applied toward a {{% resource_link "a1ad0e43-6ee5-4979-aea7-46ab9f72e0b4" "Master's Degree in City Planning" %}}, but is not required.
+11.255 can be applied toward a [Master's Degree in City Planning](https://catalog.mit.edu/schools/architecture-planning/urban-studies-planning/#city-planning-master), but is not required.
 
-11.255 can also be applied toward the Policy, Technology, and Society requirement for the degree of {{% resource_link "a610445c-1715-4f26-bf4e-ef55ff7fb703" "Master of Science in Transportation" %}}, but is not required.
+11.255 can also be applied toward the Policy, Technology, and Society requirement for the degree of [Master of Science in Transportation](https://catalog.mit.edu/degree-charts/master-transportation/), but is not required.
 
 ### Offered
 
@@ -74,7 +74,7 @@ Primarily first-year graduate students, along with a few advanced undergraduates
 
 ### Breakdown by Major
 
-About half the students were in the Master's in City Planning program; the remainder were in the {{% resource_link "bcfd753e-1f0a-4ab7-81c0-39926de54ab8" "doctoral program in Urban Studies and Planning" %}}, the {{% resource_link "da39b3b7-8a77-46dc-a78e-745ab7ca87e0" "Humphrey Fellows program" %}}, the {{% resource_link "61d927a8-ff26-4579-b98e-d905218a276c" "Technology and Policy Program" %}}, the {{% resource_link "a1a5a9b3-132e-4bc2-a3a7-183aed43a38f" "Sloan School of Management" %}}, or were cross-registered from Harvard University's {{% resource_link "bf7334de-ce57-4284-85e9-306c721650cf" "Graduate School of Design" %}}.
+About half the students were in the Master's in City Planning program; the remainder were in the [doctoral program in Urban Studies and Planning](https://dusp.mit.edu/doctoral), the [Humphrey Fellows program](https://dusp.mit.edu/projects/special-program-urban-and-regional-studies), the [Technology and Policy Program](https://tpp.mit.edu/), the [Sloan School of Management](https://mitsloan.mit.edu/), or were cross-registered from Harvard University's [Graduate School of Design](https://www.gsd.harvard.edu/).
 
 ## How Student Time Was Spent
 

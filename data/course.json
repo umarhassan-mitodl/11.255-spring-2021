@@ -28,7 +28,7 @@
     "website": "negotiation-and-dispute-resolution-in-the-public-sector"
   },
   "course_title": "Negotiation and Dispute Resolution in the Public Sector",
-  "hide_download": false,
+  "hide_download": true,
   "course_description": "Conventional legislative, administrative, and judicial means of resolving resource allocation and policy\u00a0disputes in the public sector often produce less than satisfactory results. This is true in democracies around\u00a0the world. Planners, policy-makers, developers, and advocates of the poor who are concerned about the\u00a0fairness, efficiency, stability, and wisdom of public sector decision-making are searching for better ways\u00a0of resolving public policy disagreements. Recent advances in the theory and practice of multi-party\u00a0negotiation and dispute resolution are, therefore, of great interest.\u00a0\n\nThis seminar is designed for graduate students with no prior background or experience in the fields of\u00a0 negotiation or dispute resolution. Lectures, scenarios, case studies, video analysis, and role-play\u00a0simulations are used to introduce students to the \"art\" and \"science\" of negotiation and consensus building. The class also provides an intensive opportunity for each student to build their personal theory of practice and to strengthen their negotiating capabilities.",
   "department_numbers": [
     "11"
@@ -39,6 +39,7 @@
     "content": "1b92da7a-362f-43b7-9e60-6df840efbfd5",
     "website": "negotiation-and-dispute-resolution-in-the-public-sector"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Written Assignments",
     "Lecture Notes",

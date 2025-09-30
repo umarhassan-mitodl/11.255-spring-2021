@@ -20,7 +20,7 @@ Conventional legislative, administrative, and judicial means of resolving resour
 
 This seminar is designed for graduate students with no prior background or experience in the fields of negotiation or dispute resolution. Lectures, scenarios, case studies, video analysis, and role-play simulations are used to introduce students to the "art" and "science" of negotiation and consensus building (or collaboration). The class also provides an intensive opportunity for each student to build his or her personal theory of practice and to strengthen their negotiating capabilities. 
 
-Some of the most important work in the field of dispute resolution is being done at the inter-university {{% resource_link "2f525f2c-cac7-409b-8001-45d6a3805c73" "Program on Negotiation" %}} at Harvard Law School (PON). The Department of Urban Studies and Planning is well represented at the Program through the work of students and faculty affiliated with the MIT-Harvard Public Disputes Program. This course builds on the research at PON. 
+Some of the most important work in the field of dispute resolution is being done at the inter-university [Program on Negotiation](https://www.pon.harvard.edu/) at Harvard Law School (PON). The Department of Urban Studies and Planning is well represented at the Program through the work of students and faculty affiliated with the MIT-Harvard Public Disputes Program. This course builds on the research at PON. 
 
 ## Course Logistics and Participation 
 
@@ -56,7 +56,7 @@ All negotiation self-reflection memos and scenario framing memos must be posted 
 
 The following framing memo is included by permission:
 
-{{% resource_link "34049eb4-4b77-4001-9691-1290253df2b2" "Framing Memo on Scenario #1" %}} by Joe Landis
+[Framing Memo on Scenario #1](https://draft.ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_frame1_pdf/) by Joe Landis
 
 ### Making Up Missed Negotiation Simulations
 

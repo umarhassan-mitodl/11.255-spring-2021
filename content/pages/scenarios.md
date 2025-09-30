@@ -29,4 +29,4 @@ Through the exchange of perspectives on these issues, students will have an oppo
 
 {{% resource_link "d385740e-ce43-4798-92a5-9e2f16b929c5" "Scenario #5: Roles and Responsibilities of Public Sector Mediators" %}}
 
-{{% resource_link "61a5e1fa-4e47-4125-95ef-49108f5cdb9d" "Scenario #6: A Call to Prayer (PDF)" %}} \[external link; materials not covered by OCW's Creative Commons license\]
+[Scenario #6: A Call to Prayer (PDF)](https://hwpi.harvard.edu/files/pluralism/files/new_a_call_to_prayer_a.pdf) \[external link; materials not covered by OCW's Creative Commons license\]
