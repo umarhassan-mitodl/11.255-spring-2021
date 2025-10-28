@@ -46,9 +46,9 @@ None
 
 ### Requirements Satisfied
 
-11.255 can be applied toward a [Master's Degree in City Planning](https://catalog.mit.edu/schools/architecture-planning/urban-studies-planning/#city-planning-master), but is not required.
+11.255 can be applied toward a {{% resource_link "8c5effb8-9663-4159-bcef-07a8c9d73080" "Master's Degree in City Planning" %}}, but is not required.
 
-11.255 can also be applied toward the Policy, Technology, and Society requirement for the degree of [Master of Science in Transportation](https://catalog.mit.edu/degree-charts/master-transportation/), but is not required.
+11.255 can also be applied toward the Policy, Technology, and Society requirement for the degree of {{% resource_link "a6aed7a7-812b-4b00-b2e9-2c92d1ecf59a" "Master of Science in Transportation" %}}, but is not required.
 
 ### Offered
 
@@ -74,7 +74,7 @@ Primarily first-year graduate students, along with a few advanced undergraduates
 
 ### Breakdown by Major
 
-About half the students were in the Master's in City Planning program; the remainder were in the [doctoral program in Urban Studies and Planning](https://dusp.mit.edu/doctoral), the [Humphrey Fellows program](https://dusp.mit.edu/projects/special-program-urban-and-regional-studies), the [Technology and Policy Program](https://tpp.mit.edu/), the [Sloan School of Management](https://mitsloan.mit.edu/), or were cross-registered from Harvard University's [Graduate School of Design](https://www.gsd.harvard.edu/).
+About half the students were in the Master's in City Planning program; the remainder were in the {{% resource_link "73b74946-d595-41b1-874b-33c6bb08d97a" "doctoral program in Urban Studies and Planning" %}}, the {{% resource_link "e008080d-3410-4eb3-942c-22300da79332" "Humphrey Fellows program" %}}, the {{% resource_link "2a1cc2bd-34b6-4cfc-9991-96dfcf192782" "Technology and Policy Program" %}}, the {{% resource_link "230f4190-3b2c-4929-9c5c-feb2007e86e4" "Sloan School of Management" %}}, or were cross-registered from Harvard University's {{% resource_link "f90e3d04-d88c-494e-800c-90140b90a883" "Graduate School of Design" %}}.
 
 ## How Student Time Was Spent
 

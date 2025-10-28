@@ -5,8 +5,6 @@ draft: false
 file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/mit11_255s21_frame1.pdf
 file_size: 152129
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
